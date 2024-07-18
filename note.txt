@@ -1,0 +1,8 @@
+day code tu local len remote
+
+
+
+ git add -add
+
+ git commit-m " create home page html"
+git push -u orgin master
