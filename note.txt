@@ -2,7 +2,25 @@ day code tu local len remote
 
 
 
- git add -add
+ git add -A
 
  git commit-m " create home page html"
 git push -u orgin master
+
+
+
+ tao nhanh
+
+  git checkout -b    ( ten nhanh)
+
+  chuyen nhanh:
+
+
+  git checkout (ten nhanh)git 
+git branch
+  xem cac nhanh trong may git branch
+
+
+
+   gom code tu 2 login ve master( dung tai nhanh master)
+   git merge login
